@@ -1,5 +1,8 @@
+# View it on below Link 
+`https://ankitvars.github.io/Ipod/`
 
-# Basic Features.
+
+# Basic Features 
 
 1. Ipod react app to listen music.
 2. All controls  : play/pause, forward, reverse, menu.
@@ -19,7 +22,7 @@
 6. To go to next menu or go inside a menu press center button and to go to previous menu press menu button
 7. Songs do play and Please checkout settings menu for changing themes.
 
-# How To Install.
+# How To Install?
 
 0. Run this app by directly opening the above link or follow steps below to set up on local directory.
 1. Clone the project using git clone command
