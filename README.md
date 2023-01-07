@@ -1,5 +1,7 @@
 # View it on below Link 
-"https://ankitvars.github.io/Ipod/"
+```
+## Hosted Using Vercel:
+https://ipod-project.vercel.app/
 
 # How To Install?
 
