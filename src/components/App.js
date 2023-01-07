@@ -35,9 +35,9 @@ class App extends React.Component {
       songImgItemsUrl: [song1Img, song2Img, song3Img, song4Img, song5Img], //song images list
       wallpaperItems: [home, wall1, wall2], //wallpapers
       songItems: [
+         "One Dance - Drake",
         "Bones - Imagine Dragons",
         "Unholy - Kim Petras and Sam Smith",
-        "One Dance - Drake",
         "SAD - XXXTentacion",
         "Calm Dwon - Rema & Selena Gomez",
       ], //song names
