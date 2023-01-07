@@ -35,11 +35,11 @@ class App extends React.Component {
       songImgItemsUrl: [song1Img, song2Img, song3Img, song4Img, song5Img], //song images list
       wallpaperItems: [home, wall1, wall2], //wallpapers
       songItems: [
-         "One Dance - Drake",
-        "Bones - Imagine Dragons",
+         "One Dance - Drake",        
         "Unholy - Kim Petras and Sam Smith",
         "SAD - XXXTentacion",
         "Calm Dwon - Rema & Selena Gomez",
+        "Bones - Imagine Dragons",
       ], //song names
       songIndex: 0, //current song
       lengthMenuKey: { "-1": 3, 1: 2, 4: 4, 8: 4, 3: 2, 9: 3, 10: 2 }, //length of a particular menu
