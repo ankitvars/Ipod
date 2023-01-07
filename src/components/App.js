@@ -35,22 +35,22 @@ class App extends React.Component {
       songImgItemsUrl: [song1Img, song2Img, song3Img, song4Img, song5Img], //song images list
       wallpaperItems: [home, wall1, wall2], //wallpapers
       songItems: [
-         "One Dance - Drake",        
+        "Bones - Imagine Dragons",
         "Unholy - Kim Petras and Sam Smith",
+        "One Dance - Drake",
         "SAD - XXXTentacion",
         "Calm Dwon - Rema & Selena Gomez",
-        "Bones - Imagine Dragons",
       ], //song names
       songIndex: 0, //current song
       lengthMenuKey: { "-1": 3, 1: 2, 4: 4, 8: 4, 3: 2, 9: 3, 10: 2 }, //length of a particular menu
       menuMapping: { "-1": [0, 1, 2, 3], 1: [4, 5, 6], 3: [8, 9, 10] }, //which menu can be rendered by key menu
       currentMenu: -2, //current menu which is lockscreen initially
       navigationStack: [], //Used for navigation forward and backward
-      songUrl: song3, //current song url
+      songUrl: song1, //current song url
       playing: false, //playing or not
       theme: "rgb(210, 210, 210)", //current body theme
-      audio: new Audio(song3), //current audio file
-      songImgUrl: song3Img, //current song img for now playing
+      audio: new Audio(song1), //current audio file
+      songImgUrl: song1Img, //current song img for now playing
       wheelColor: "white", //current wheel color
       wallpaper: 0, //current wallpaper
       noty: false, // has to show notification or not
